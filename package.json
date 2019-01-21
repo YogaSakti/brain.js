@@ -1,0 +1,23 @@
+{
+  "name": "neuralnets",
+  "version": "1.0.0",
+  "description": "brain js neural nets",
+  "main": "app.js",
+  "dependencies": {
+    "brain.js": "^1.6.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brain.js",
+    "neural",
+    "networks"
+  ],
+  "author": "yogs",
+  "license": "ISC"
+}
